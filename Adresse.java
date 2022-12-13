@@ -2,7 +2,7 @@
 /**
  * Cette classe modelise une adresse postale.
  * Classe fournie dans le cadre du TP3 INF1120 A22.
- * @author Melanie Lord
+ * @author Vahid Foruzanmehr
  * @version Novembre 2022
  */
 public class Adresse {
