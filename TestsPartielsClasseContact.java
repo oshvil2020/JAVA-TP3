@@ -8,7 +8,7 @@
  * Importez cette classe dans votre projet (dans le paquetage par defaut), et 
  * executez la methode main pour demarrer les tests.
  * 
- * @author Melanie Lord
+ * @author Vahid Foruznamher
  * @version A22
  */
 public class TestsPartielsClasseContact {    
