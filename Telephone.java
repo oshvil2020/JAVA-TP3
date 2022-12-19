@@ -2,7 +2,7 @@
 /**
  * Cette classe modelise un numero de telephone. 
  * Classe fournie dans le cadre du TP3 INF1120 A22.
- * @author Melanie Lord
+ * @author Vahid Foruzanmehr
  * @version novembre 2022.
  */
 public class Telephone {
